@@ -1,8 +1,9 @@
+cargo-features = ["edition2024"]
 [package]
 name = "whirlpools-client"
 version = "0.2.1"
 description = "Created with Anchor"
-edition = "2021"
+edition = "2024"
 
 [lib]
 crate-type = ["cdylib", "lib"]
